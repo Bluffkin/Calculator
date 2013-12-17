@@ -1,0 +1,23 @@
+#entire {
+	margin-right: auto;
+	margin-left: auto;
+	border: 2px solid #000;
+	border-collapse: collapse;
+}
+
+#Calcs {
+	text-align: center;
+}
+
+td {
+	text-align: center;
+	border: 2px solid black;
+}
+
+.button {
+	width: 30px;
+}
+
+h1 {
+	text-align: center;
+}
